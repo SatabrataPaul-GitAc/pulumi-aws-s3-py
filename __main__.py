@@ -1,4 +1,4 @@
-"""IaaC to host a static website on AWS s3 with CDN"""
+"""IaaC - Infrastructure as a Code to host a static website on AWS s3 with CDN"""
 import os
 import mimetypes
 import json
