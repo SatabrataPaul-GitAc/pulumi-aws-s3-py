@@ -1,0 +1,6 @@
+name: pulumi-aws-s3-py
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: IaaC to host a static website on AWS s3 with CDN
