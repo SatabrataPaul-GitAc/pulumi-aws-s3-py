@@ -14,6 +14,7 @@ with `***`.
     ```
 
 2. Set Config parameters in Pulumi:
+    
     a) Set the AWS Region to be used for deploying the cloud resources 
     ```bash
     $ pulumi config set aws:region us-west-2
